@@ -12,4 +12,4 @@ int main(void){
 
 ```
 링크는 다음과 같이 작성할 수 있습니다.
-[블로그주소]https://hyun-jng.tistory.com/manage/posts/?category=-3&page=2&searchKeyword=&searchType=title&visibility=all
+[블로그주소](https://hyun-jng.tistory.com/manage/posts/?category=-3&page=2&searchKeyword=&searchType=title&visibility=all)
